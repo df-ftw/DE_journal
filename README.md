@@ -86,3 +86,4 @@ journal/
 * Show a **diagram** (even a quick sketch) of flow (Raw → Clean → Mart).
 * Call out **trade-offs** (cost, freshness, complexity).
 * End with **next steps** + **open questions**.
+"#DE_journal" 
